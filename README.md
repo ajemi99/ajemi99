@@ -1,65 +1,80 @@
-# Hi 👋 I'm Abdelmounaim Jemi
+# 👋 Hi, I'm Abdelmounaim Jemi
 
-💻 Full Stack Developer  
-🚀 Passionate about building scalable backend systems and modern web applications.
+## 🚀 Full-Stack Developer
 
----
-
-## 🚀 Technologies
-
-- Go
-- JavaScript / TypeScript
-- Java
-- Spring Boot
-- React
-- Docker
-- PostgreSQL
-- REST APIs
-- WebSockets
+I’m a passionate **Full-Stack Developer** focused on building scalable backend systems and modern web applications.  
+I enjoy solving complex problems, designing clean APIs, and learning new technologies through real-world projects.
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-### Barber Booking System
-Backend application for managing barber appointments.
+**Backend:** Go, Java, Spring Boot, REST APIs, WebSockets  
+**Frontend:** JavaScript, TypeScript, React, HTML, CSS  
+**Database:** PostgreSQL, MySQL  
+**Tools & DevOps:** Git, GitHub, Docker  
+
+---
+
+## 📌 Featured Projects
+
+### 💈 Barber Appointment System
+A backend application for managing barber shop appointments.
 
 Features:
-- Real-time updates using WebSocket
+- Real-time updates using WebSockets
 - Appointment scheduling
 - Wait time calculation
+- Client management
 
 Tech:
 Spring Boot • PostgreSQL • WebSocket
 
 ---
 
-### Bomberman Game
-Multiplayer Bomberman game built with React.
+### 🎮 Bomberman Game
+A multiplayer Bomberman game built with React.
 
 Features:
-- Player movement
-- Bomb system
+- Player movement system
+- Bomb mechanics
 - Power-ups
-- Real-time gameplay
+- Real-time interactions
 
 Tech:
 React • JavaScript
 
 ---
 
-### Forum Application
-Full stack forum with authentication and comments.
+### 💬 Real-Time Forum
+A forum application supporting authentication, posts, and comments with real-time updates.
 
 Tech:
-JavaScript • Node.js
+JavaScript • WebSocket
 
 ---
 
-## 📫 Contact
+### ⚙️ Mini JavaScript Framework
+A lightweight JavaScript framework created from scratch using a component-based architecture.
 
-LinkedIn  
-https://www.linkedin.com/in/abdelmounaim-jemi-184007309
+---
 
-GitHub  
+## 🎯 What I'm Currently Working On
+
+- Improving backend architecture skills
+- Building scalable real-time systems
+- Learning more about system design and performance optimization
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/abdelmounaim-jemi-184007309  
+
+💻 GitHub  
 https://github.com/ajemi99
+
+---
+
+⭐ Feel free to explore my repositories and leave a star if you find something interesting!
